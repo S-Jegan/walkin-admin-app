@@ -1,0 +1,93 @@
+[26-Jan-2019 13:04:59 UTC] PHP Fatal error:  Class 'App\Model\Eloquent' not found in /home/xcfpifzsagkd/public_html/console/app/Model/WalkinInterviewDetails.php on line 7
+[27-Jan-2019 08:01:52 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98570240 bytes) in /home/xcfpifzsagkd/public_html/console/routes/api.php on line 127
+[27-Jan-2019 08:38:22 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Admin\AdminController, because the name is already in use in /home/xcfpifzsagkd/public_html/console/app/Http/Controllers/Api/FilterController.php on line 60
+[13-Dec-2019 09:29:20 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected ''locale'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php:81
+Stack trace:
+#0 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/H in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php on line 81
+[13-Dec-2019 09:29:23 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected ''locale'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php:81
+Stack trace:
+#0 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/H in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php on line 81
+[13-Dec-2019 09:29:23 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected ''locale'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php:81
+Stack trace:
+#0 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/H in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php on line 81
+[13-Dec-2019 09:29:24 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected ''locale'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php:81
+Stack trace:
+#0 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/H in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php on line 81
+[13-Dec-2019 09:29:32 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected ''locale'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php:81
+Stack trace:
+#0 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/H in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php on line 81
+[13-Dec-2019 09:29:33 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected ''locale'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php:81
+Stack trace:
+#0 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/H in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php on line 81
+[13-Dec-2019 09:29:40 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected ''locale'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php:81
+Stack trace:
+#0 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/H in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php on line 81
+[13-Dec-2019 09:30:08 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected ''locale'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php:81
+Stack trace:
+#0 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/H in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php on line 81
+[13-Dec-2019 09:30:11 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected ''locale'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php:81
+Stack trace:
+#0 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/H in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php on line 81
+[13-Dec-2019 09:30:12 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected ''locale'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php:81
+Stack trace:
+#0 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/H in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php on line 81
+[13-Dec-2019 09:30:18 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected ''locale'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php:81
+Stack trace:
+#0 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/H in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php on line 81
+[13-Dec-2019 09:30:33 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected ''locale'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php:81
+Stack trace:
+#0 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/H in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php on line 81
+[13-Dec-2019 09:30:51 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected ''locale'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php:81
+Stack trace:
+#0 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/H in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php on line 81
+[13-Dec-2019 09:30:58 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected ''locale'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php:81
+Stack trace:
+#0 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/H in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php on line 81
+[13-Dec-2019 09:30:58 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Parse error: syntax error, unexpected ''locale'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php:81
+Stack trace:
+#0 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/LoadConfiguration.php(38): Illuminate\Foundation\Bootstrap\LoadConfiguration->loadConfigurationFiles(Object(Illuminate\Foundation\Application), Object(Illuminate\Config\Repository))
+#1 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(203): Illuminate\Foundation\Bootstrap\LoadConfiguration->bootstrap(Object(Illuminate\Foundation\Application))
+#2 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(254): Illuminate\Foundation\Application->bootstrapWith(Array)
+#3 /home/xcfpifzsagkd/public_html/admin/walkin/vendor/laravel/framework/src/Illuminate/Foundation/H in /home/xcfpifzsagkd/public_html/admin/walkin/config/app.php on line 81
